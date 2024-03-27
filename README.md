@@ -6,7 +6,7 @@ You are a descendant of the union between Enos, the Primordial of Stars, and Syl
 
 **Hit Dice:** 1d8 per level  
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 5) + your Constitution modifier per level after 1st
 
 #### Proficiencies
 
@@ -48,9 +48,9 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th  | +6                | [Primordial Chaos](#Primordial_Chaos)                                                      | 6              | 15           | 4                           | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 <a name="Spellcasting"></a>
-## Spellcasting
+## Spellcasting Level 1
 
-The divine heritage bestowed upon you by your parents infuses your being with celestial magic. See [Spells Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting "Spells Rules") for the general rules of spellcasting and the [Spells Listing](https://www.dndbeyond.com/spells?filter-class=6&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content= "Spells Listing (Sorcerer)") for the sorcerer spell list.
+The divine heritage bestowed upon you by your parents infuses your being with celestial magic. See [Spells Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting "Spells Rules") for the general rules of spellcasting and the [Spells Listing]([https://www.dndbeyond.com/spells?filter-class=6&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content= "Spells Listing (Sorcerer)](https://www.dndbeyond.com/spells?filter-class=2&filter-class=6&filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=&filter-partnered-content=f)") for the sorcerer and cleric spell list. You can change your list of prepared spells when you finish a long rest.
 
 <a name="Ability_Score_Improvement"></a>
 #### Ability Score Improvement
@@ -67,7 +67,7 @@ The number of attacks increases to three when you reach 11th level in this class
 At the start of your training, you gain a deep connection to your spear, forged by the stars. You gain access to special spear attacks and techniques that allow you to be superior in battle.
 
 <a name="Corruption_Token"></a>
-## Corruption Token
+## Corruption Token Level 1
 
 **Description:** As a master of destruction, you harness the power to inflict devastating damage upon your foes, leaving behind a trail of corruption that weakens them further. When you deal damage to an enemy creature with a spell or ability that deals destruction damage, that creature gains a Corruption Token.
 
@@ -89,7 +89,7 @@ At the start of your training, you gain a deep connection to your spear, forged 
 - Upon hitting the target and dealing damage, apply a corruption token.
 
 <a name="Stellar_Empowerment"></a>
-## Stellar Empowerment
+## Stellar Empowerment Level 3
 
 Harnessing the celestial guidance of the stars, you unlock the hidden vulnerabilities of your adversaries and strike with unparalleled precision.
 **Activation:** As a bonus action, you can invoke Stellar Empowerment once per short rest, aligning yourself with the celestial bodies for divine aid.
@@ -99,7 +99,7 @@ Harnessing the celestial guidance of the stars, you unlock the hidden vulnerabil
 Embrace the guidance of the heavens, unlocking the true potential of your martial prowess through Stellar Empowerment.
 
 <a name="Destructive_Thrust"></a>
-## Destructive Thrust
+## Destructive Thrust Level 2
 **Description:** At 2nd level, when you hit a creature with a melee weapon attack, you can channel destructive energy into your strike, causing additional damage of the destruction type.
 **Mechanics:**
 - **Usage Limit:** You can use this feature a number of times equal to your proficiency bonus + your Strength modifier. You regain all expended uses after finishing a long rest.
@@ -114,24 +114,26 @@ Embrace the guidance of the heavens, unlocking the true potential of your martia
 **Example:** "At 2nd level, when you hit a creature with a melee weapon attack, you can use your Destructive Thrust ability to channel destructive energy into your strike. You can do this a number of times equal to your proficiency bonus + your Strength modifier, regaining all expended uses after finishing a long rest. The extra damage inflicted by Destructive Thrust is determined by the rarity or strength of your weapon, as indicated in the scaling table above."
 
 <a name="Shooting_Star"></a>
-## Shooting Star
+## Shooting Star Level 6
 
 As an action, you can channel your arcane energy to adapt a spell's casting time to a bonus action, expending a use of this ability. The spell's casting time is reduced to a bonus action even if the spell specifies an action. However, you must forfeit your next available bonus action to cast the spell in this manner.
 You can use this ability a number of times equal to your proficiency bonus + Wisdom modifier. You regain expended uses after completing a long rest.
 
 <a name="Stars_Aura"></a>
-## Stars Aura
+## Stars Aura Level 7
 
 You unleash the power of the cosmos, enveloping yourself in an aura of stellar energy. Enemies within this aura find themselves weakened and disoriented, their attacks faltering under the celestial onslaught.
 **Activation:** As a bonus action, you can activate your Stars Aura. The aura extends in a 30-foot radius around you and lasts for 1 minute. You can dismiss the aura early as a bonus action.
 **Effect:** While your Stars Aura is active, enemies that start their turn within the aura's radius must make a Constitution saving throw against your spell save DC. On a failed save, a creature takes 1d6 radiant damage and suffers disadvantage on attack rolls and ability checks until the start of its next turn. On a successful save, the creature takes half damage and suffers no additional effects.
+<a name="Stars_Bolstering"></a>
 #### Stars Bolstering: 
 At 10th level, the damage increases to 2d6 radiant damage.
+<a name="Stars_Mastery"></a>
 #### Stars Mastery:
 At 15th level, you gain the ability to maintain concentration on your Stars Aura without using your concentration slot. Additionally, the damage increases to 3d6 radiant damage.
 
 <a name="Destructive_Armor_Enhancement"></a>
-## Destructive Armor Enhancement
+## Destructive Armor Enhancement Level 7
 
 **Description:** Starting at 7th level, you harness the power of destruction magic to enhance your armor, fortifying your defenses based on its rarity.
 **Scaling Defense Based on Armor Rarity:**
@@ -144,17 +146,17 @@ At 15th level, you gain the ability to maintain concentration on your Stars Aura
 **Example:** "Starting at 7th level, you gain the Armor Enhancement ability, allowing you to infuse your armor with the destructive energies of magic. The additional defensive benefits provided by Armor Enhancement are determined by the rarity or strength of your armor, as indicated in the scaling table above."
 
 <a name="Stellar_Implosion"></a>
-## Stellar Implosion
+## Stellar Implosion Level 14
 
 Your connection to the destructive forces of the cosmos reaches its zenith, allowing you to unleash a devastating Stellar Implosion upon your enemies. **Description:** As an action, you can channel the destructive power of the stars into your spear, causing it to erupt with celestial energy. Make a melee weapon attack with your spear against a target creature within your reach. On a hit, the target suffers normal spear damage plus an additional 6d10 destruction damage as the celestial energy explodes upon impact, ripping through the target and everything nearby. **Usage:** You can use this ability once per long rest.
 
 <a name="Annihilations_Embrace"></a>
-## Annihilation's Embrace
+## Annihilation's Embrace Level 18
 
 Your mastery over destruction transcends mortal comprehension, allowing you to channel the pure essence of annihilation into your attacks. **Description:** Once per turn when you hit a creature with a weapon attack, you can choose to channel the power of Annihilation's Embrace, inflicting additional destruction damage equal to half your level (rounded down) on top of the attack's normal damage. **Usage:** You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after finishing a long rest.
 
 <a name="Primordial_Chaos"></a>
-## Primordial Chaos
+## Primordial Chaos Level 20
 
 You embody the pinnacle of destructive might, becoming an avatar of primordial chaos and stellar devastation. As an action, you can transform into your Primordial Chaos form for 1 minute. While in this form, you gain the following benefits:
 - **Cosmic Mastery**: Your destructive abilities surge with cosmic energy, causing all damage dealt by your spells and abilities to ignore resistance and treat immunity as resistance. (Harnessing the raw power of the cosmos, your spells and abilities tear through barriers of resistance, unraveling the fabric of reality with every strike.)
