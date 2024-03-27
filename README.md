@@ -4,9 +4,9 @@ You are a descendant of the union between Enos, the Primordial of Stars, and Syl
 
 #### Hit Points
 
-**Hit Dice:** 1d8 per level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d10 (or 5) + your Constitution modifier per level after 1st
+**Hit Dice:** 1d10 per level  
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per level after 1st
 
 #### Proficiencies
 
@@ -53,17 +53,19 @@ You start with the following equipment, in addition to the equipment granted by 
 The divine heritage bestowed upon you by your parents infuses your being with celestial magic. See [Spells Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting "Spells Rules") for the general rules of spellcasting and the [Spells Listing]([https://www.dndbeyond.com/spells?filter-class=6&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content= "Spells Listing (Sorcerer)](https://www.dndbeyond.com/spells?filter-class=2&filter-class=6&filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=&filter-partnered-content=f)") for the sorcerer and cleric spell list. You can change your list of prepared spells when you finish a long rest.
 
 <a name="Ability_Score_Improvement"></a>
-#### Ability Score Improvement
+## Ability Score Improvement Level 4, 8, 12, 16 and 19
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 <a name="Extra_Attack"></a>
-#### Extra Attack
+## Extra Attack Level 5 and 11
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Attack) action on your turn.
 The number of attacks increases to three when you reach 11th level in this class.
-## Stellar Spear Mastery
+
+<a name="Stellar_Spear_Mastery"></a>
+## Stellar Spear Mastery Level 2
 At the start of your training, you gain a deep connection to your spear, forged by the stars. You gain access to special spear attacks and techniques that allow you to be superior in battle.
 
 <a name="Corruption_Token"></a>
